@@ -1,0 +1,3 @@
+[submodule "Submodules/Repo2"]
+	path = Submodules/Repo2
+	url = https://github.com/toma-opswat/Repo2.git
